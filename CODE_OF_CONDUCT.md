@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-🎉 This project is fuelled by open-source contributions, but to sustain this community we need to all follow the rules below.
+🎉 This project is fully worked on by Mid developers | Senior Developers and contributions of other specialist, but to sustain this community we need to all follow the rules below.
 
 ## Our Pledge
 
